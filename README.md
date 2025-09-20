@@ -32,5 +32,5 @@ The extracted data is exported into a structured **CSV/Excel file** for easy ana
 ## 🚀 Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/linkedin-job-scraper.git
-   cd linkedin-job-scraper
+   git clone https://github.com/Anudhyan/LinkedinJobScraper.git
+   cd LinkedinJobScraper
